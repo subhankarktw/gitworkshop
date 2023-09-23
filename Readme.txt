@@ -1,1 +1,1 @@
-This is our git workshop.
+This is our git workshop which teach us to make directory and add file to git and how to commit. Then we learn how push file in global repo and how to request pull in differnet branches.
